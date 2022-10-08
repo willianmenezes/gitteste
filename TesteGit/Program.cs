@@ -1,4 +1,4 @@
-﻿void AjustarValorrrrrrrr()
+﻿void AjustarValor(int valor)
 {
 
 }
