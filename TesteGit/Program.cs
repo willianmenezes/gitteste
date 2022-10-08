@@ -1,4 +1,4 @@
-﻿void AjustarValor(int valor)
+﻿void AjustarValorrrrrrrr(string nome)
 {
 
 }
