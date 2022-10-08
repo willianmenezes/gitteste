@@ -8,4 +8,8 @@ public  void Main(string[] args){
         return valor;
     }
 
+    void AdicionarValor(int valor){
+        return valor;
+    }
+
 }
